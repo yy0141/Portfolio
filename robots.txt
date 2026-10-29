@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_protected/
+Disallow: /projects/
+# これは収集方針の補助。保護は事前暗号化で実施する。
